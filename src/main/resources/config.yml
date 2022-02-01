@@ -1,0 +1,15 @@
+timeRestart: '01:00'
+spawn: 'world;0.5;36.0;0.5;-2.5;-270.0'
+fixedTime: 6000
+giveSpeed: true
+
+login: true
+allowedCommands: #Работает только когда login == true.
+    - 'spawn'
+    - 'reg'
+    - 'register'
+    - 'l'
+    - 'login'
+    - 'cp'
+    - 'changepass'
+    - 'changepassword'
