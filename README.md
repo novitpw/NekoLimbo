@@ -1,2 +1,3 @@
 # NekoLimbo
- NekoCloud limbo plugin
+ Старый Limbo плагин с сервера NekoCloud
+ (не используется)
